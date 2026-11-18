@@ -21,7 +21,7 @@ open "build/Walk Break.app"
 
 To try both pop-ups quickly, switch Walk Break off and click **Test cycle · 25 sec**. The test starts a 20-second movement break after 5 seconds and then begins a regular work session.
 
-## Install on Windows
+## How to install on Windows
 
 The Windows version lives in the `windows` folder. It runs on Windows 10 and Windows 11 and uses Windows PowerShell 5.1, which every copy of Windows 10 and 11 already includes. You don't need to install Python, Node.js, Visual Studio, or administrator rights.
 
